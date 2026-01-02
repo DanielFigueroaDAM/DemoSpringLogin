@@ -13,3 +13,9 @@ En postgres crearemos la base de datos de demo.
 
 Debido a que estamos usando Spring Security todos los endpoints tendrán una capa de seguridad, todas estarian protegidas, por lo cual necesitaremos realizar configuraciones.
 
+Spring tiene un formulario por defecto de autentificación.
+Este formulario está designado en la configuración.
+
+<img width="737" height="410" alt="imagen" src="https://github.com/user-attachments/assets/dab01309-975e-4648-a512-38e2d573f04f" />
+
+<img width="1190" height="848" alt="imagen" src="https://github.com/user-attachments/assets/cbb3a5ea-44d4-450e-b89a-c156a2fcd4cf" />
