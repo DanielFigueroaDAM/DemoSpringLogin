@@ -18,4 +18,9 @@ Este formulario está designado en la configuración.
 
 <img width="737" height="410" alt="imagen" src="https://github.com/user-attachments/assets/dab01309-975e-4648-a512-38e2d573f04f" />
 
+Usando postman podemos ver lo que hay dentro del endpoint
+
 <img width="1190" height="848" alt="imagen" src="https://github.com/user-attachments/assets/cbb3a5ea-44d4-450e-b89a-c156a2fcd4cf" />
+
+Usaremos JWT(JSON Web Token)
+
