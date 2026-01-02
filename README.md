@@ -11,3 +11,5 @@ Desde la pagina de start.spring.io configuramos el proyecto.
 En postgres crearemos la base de datos de demo.
 <img width="646" height="326" alt="imagen" src="https://github.com/user-attachments/assets/7f359f3a-0b32-4bcd-8fdd-22f327cdc933" />
 
+Debido a que estamos usando Spring Security todos los endpoints tendrán una capa de seguridad, todas estarian protegidas, por lo cual necesitaremos realizar configuraciones.
+
